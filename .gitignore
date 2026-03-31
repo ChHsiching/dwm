@@ -1,0 +1,11 @@
+# Build artifacts
+dwm
+*.o
+config.h
+
+# Runtime/tool directories
+.remember/
+
+# Patch backup files
+*.orig
+*.rej
