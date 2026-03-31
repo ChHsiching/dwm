@@ -81,7 +81,7 @@ static const char *dmenucmd[] = { "dmenu_run",
 	col_gray4, NULL };
 // 默认为 st，切换为 ghostty
 // static const char *termcmd[]  = { "st", NULL };
-static const char *termcmd[]  = { "ghostty", NULL };
+static const char *termcmd[]  = { "kitty", NULL };
 static const char *rofi[]     = { "rofi", "-show", "drun", "theme", "~/.config/rofi/config.rasi", NULL };
 // 这条命令是基本的启动命令
 // static const char *flameshot[]= { "flameshot", "gui", NULL }
